@@ -1,4 +1,7 @@
 ## Hi there, Adit here 👋
+
+I'm a Informatics Student in Kalimantan Institute of Technology. Nice to meet you.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adtyrdho) 
 
